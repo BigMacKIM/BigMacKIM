@@ -11,7 +11,7 @@
 
   
 
-## **<i> 🚀Stacks🚀 </i>**
+## **<i> 📘Studying📘 </i>**
 
 
 <p align="center">
