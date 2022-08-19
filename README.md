@@ -27,6 +27,6 @@
 
 ![김빅맥's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMacKIM&theme=radical&show_icons=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koust6u)](https://solved.ac/koust6u/)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=koust6u">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigMacKIM&layout=compact)](https://github.com/BigMacKIM/github-readme-stats) 
