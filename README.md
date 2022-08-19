@@ -1,4 +1,3 @@
-![MinJong's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMacKIM&show_icons=true&theme=dark)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome&fontSize=90&fontColor=EAEAEA&animation=fadeIn)
   
@@ -27,7 +26,7 @@
 
 ## **<del><i> 🎸ect..🎸 </i></del>**
 
-![김빅맥's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMacKIM&theme=radical&show_icons=true)
+![김빅맥's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMacKIM&theme=dark&show_icons=true)
 
 </br>
 
