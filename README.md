@@ -5,10 +5,8 @@
 
 ## **<i> 🖐️Introduction🖐️ </i>**
 
-<img src="C:\Users\koust\Pictures\11.png">
-![김빅맥's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMacKIM&theme=radical&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=koust6u)](https://solved.ac/koust6u)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigMacKIM&layout=compact)](https://github.com/BigMacKIM/github-readme-stats) 
+![11](https://user-images.githubusercontent.com/111568619/185622793-4039b5be-1990-4f08-a1d2-1007fc30cf71.JPG)
+
   
 ## **<i> 🚀Stacks🚀 </i>**
 
