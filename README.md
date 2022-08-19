@@ -5,9 +5,7 @@
 </div>
 
 <style>
-  
-  div {display:inline;}
-  
+  div{display:inline;}
 </style>
   
   
