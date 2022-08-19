@@ -9,7 +9,7 @@
  
 
 <div align="center">
-<img align="" src="https://user-images.githubusercontent.com/111568619/185634895-f0a3fb5c-b684-4047-803a-753712d005ee.JPG" width="300" height="400"/></br>***😃I am majoring in computer science. </br> 🏝️ I love traveling. </br> 🥵 And Slacker. </br> 🇰🇷 Living in Korea***
+<img align="" src="https://user-images.githubusercontent.com/111568619/185634895-f0a3fb5c-b684-4047-803a-753712d005ee.JPG" width="300" height="400"/></br>***😃I am majoring in computer science.*** </br> 🏝️ I love traveling. </br> 🥵 And Slacker. </br> ***🇰🇷 Living in Korea***
 </div>
  
 
