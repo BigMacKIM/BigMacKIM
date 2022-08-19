@@ -9,18 +9,6 @@
 
 
 
-<div style="display:inline-block;vertical-align:top;">
-  <img src="https://user-images.githubusercontent.com/111568619/185622998-0ca972f4-6d05-4fe9-9383-535f78592427.JPG" width="300" height="400"/>
-  </div>
-  
-<div style="display:inline-block;">
-  
-  <p>
-    i am korean.
-  </p>
-  
-</div>
-
   
 
 ## **<i> 📘Studying📘 </i>**
@@ -39,6 +27,7 @@
 ## **<del><i> 🎸ect..🎸 </i></del>**          
 ![김빅맥's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMacKIM&theme=dark&show_icons=true)       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigMacKIM&layout=compact)](https://github.com/BigMacKIM/github-readme-stats) 
+</br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koust6u)](https://solved.ac/koust6u/)
 <img src="http://mazandi.herokuapp.com/api?handle=koust6u&theme=warm"/>
 
