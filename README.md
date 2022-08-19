@@ -4,16 +4,16 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBigMacKIM&count_bg=%23EEA4D9&title_bg=%23B02F9C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-<style>
-  div{display:inline;}
-</style>
-  
-  
+
+   
 ## **<i> 🖐️Introduction🖐️ </i>**
  
-<div>
+
+<center>
   <img src="https://user-images.githubusercontent.com/111568619/185634895-f0a3fb5c-b684-4047-803a-753712d005ee.JPG" width="300" height="400"/>
-</div>
+  </center>
+  
+
 
 rsadas
 
