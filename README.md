@@ -2,7 +2,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBigMacKIM&count_bg=%23EEA4D9&title_bg=%23B02F9C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
-
+<div>
 ## **<i> 🖐️Introduction🖐️ </i>**
 
 <img align="left" src="https://user-images.githubusercontent.com/111568619/185622998-0ca972f4-6d05-4fe9-9383-535f78592427.JPG" width="300" height="400"/>
@@ -12,7 +12,7 @@
 <li>I am a korean</li>
 <li>CS student</li>
 </ol>
-
+<div>
   
 ## **<i> 🚀Stacks🚀 </i>**
 
