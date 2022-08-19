@@ -44,3 +44,8 @@
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:koust6u@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:godminjong@naver.com)
+<a href="https://instagram.com/minjong1211">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/minjong1211/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
