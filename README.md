@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a> &nbsp </p>
 
-## **<del><i> 🖐️ect..🖐️ </i></del>**
+## **<del><i> 🎸ect..🎸 </i></del>**
 
 ![김빅맥's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMacKIM&theme=radical&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=koust6u)](https://solved.ac/koust6u)
