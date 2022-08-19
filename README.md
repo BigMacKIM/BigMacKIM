@@ -7,12 +7,13 @@
   
 ## **<i> 🖐️Introduction🖐️ </i>**
 
+
+
 <div style="display:inline-block;vertical-align:top;">
   <img src="https://user-images.githubusercontent.com/111568619/185622998-0ca972f4-6d05-4fe9-9383-535f78592427.JPG" width="300" height="400"/>
-  <p>
-    i am korean
-  </p>
-</div>
+  </div>
+  
+
 
   
 
