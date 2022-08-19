@@ -6,8 +6,8 @@
 
 <div align=center>  
  
-# 🖐️Introduction
-I will be the programming king in the future. </br>
+<h1> 🖐️Introduction <h1>
+
 
 
 ![김빅맥's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMacKIM&theme=radical&show_icons=true)
