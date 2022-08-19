@@ -11,6 +11,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=koust6u)](https://solved.ac/koust6u)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigMacKIM&layout=compact)](https://github.com/BigMacKIM/github-readme-stats) 
   
-## **<i> 🚀Tech Stack🚀 </i>**
+## **<i> 🚀Stacks🚀 </i>**
 
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=00599C&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/#A8B9CC?style=for-the-badge&logo=C&logoColor=white">
