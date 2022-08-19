@@ -9,7 +9,7 @@
  
 
 <div align="center">
-<img align="" src="https://user-images.githubusercontent.com/111568619/185634895-f0a3fb5c-b684-4047-803a-753712d005ee.JPG" width="300" height="400"/></br>** 😃I am majoring in computer science.** </br> 🏝️ I love traveling. </br> 🥵 And Slacker. </br> 🇰🇷 Living in Korea
+<img align="" src="https://user-images.githubusercontent.com/111568619/185634895-f0a3fb5c-b684-4047-803a-753712d005ee.JPG" width="300" height="400"/></br> 😃**I am majoring in computer science.** </br> 🏝️ I love traveling. </br> 🥵 And Slacker. </br> 🇰🇷 Living in Korea
 </div>
  
 
@@ -36,6 +36,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koust6u)](https://solved.ac/koust6u/)
 <img src="http://mazandi.herokuapp.com/api?handle=koust6u&theme=warm"/>
 
-# :mailbox_with_mail: Contacts
+## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:koust6u@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:godminjong@naver.com)
