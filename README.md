@@ -11,3 +11,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=koust6u)](https://solved.ac/koust6u)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigMacKIM&layout=compact)](https://github.com/BigMacKIM/github-readme-stats) 
   
+## **<i> 🚀Tech Stack🚀 </i>**
+
