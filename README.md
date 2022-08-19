@@ -27,9 +27,11 @@
 ## **<del><i> 🎸ect..🎸 </i></del>**
 
 <div style="display:inline-block>
+            
             ![김빅맥's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMacKIM&theme=dark&show_icons=true)
             
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigMacKIM&layout=compact)](https://github.com/BigMacKIM/github-readme-stats) 
+            
             </div>
 
    
