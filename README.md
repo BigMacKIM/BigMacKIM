@@ -30,6 +30,7 @@
 
 </br>
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=koust6u">
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=koust6u)](https://solved.ac/koust6u)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigMacKIM&layout=compact)](https://github.com/BigMacKIM/github-readme-stats) 
