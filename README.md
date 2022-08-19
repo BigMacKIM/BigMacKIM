@@ -3,10 +3,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBigMacKIM&count_bg=%23EEA4D9&title_bg=%23B02F9C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-## **<del><i> 🖐️Introduction🖐️ </i></del>**
+## **<i> 🖐️Introduction🖐️ </i>**
 
 
->
+
 ![김빅맥's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMacKIM&theme=radical&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=koust6u)](https://solved.ac/koust6u)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigMacKIM&layout=compact)](https://github.com/BigMacKIM/github-readme-stats) 
@@ -23,3 +23,9 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a> &nbsp </p>
+
+## **<del><i> 🖐️ect..🖐️ </i></del>**
+
+![김빅맥's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMacKIM&theme=radical&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=koust6u)](https://solved.ac/koust6u)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigMacKIM&layout=compact)](https://github.com/BigMacKIM/github-readme-stats) 
