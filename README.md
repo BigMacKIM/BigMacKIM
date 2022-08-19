@@ -14,10 +14,12 @@
   </div>
   
 <div style="display:inline-block;">
+  
   <p>
     i am korean.
   </p>
-  </div>
+  
+</div>
 
   
 
