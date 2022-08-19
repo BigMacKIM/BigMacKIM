@@ -49,4 +49,4 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/minjong1211/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/koust6u1@gmail.com)](https://www.facebook.com/koust6u1@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/100010320452891)](https://www.facebook.com/100010320452891)
