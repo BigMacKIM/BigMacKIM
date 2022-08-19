@@ -26,7 +26,7 @@
 
 ## **<del><i> 🎸ect..🎸 </i></del>**
 
-<div style="display:inline-block">
+<div style="display:inline-block;vertical-align:top;">
             
 ![김빅맥's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMacKIM&theme=dark&show_icons=true)
             
