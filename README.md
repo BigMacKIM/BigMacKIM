@@ -26,7 +26,7 @@
 
 ## **<del><i> 🎸ect..🎸 </i></del>**
 
-![김빅맥's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMacKIM&theme=dark&show_icons=true) &nbsp
+![김빅맥's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMacKIM&theme=dark&show_icons=true)</a> &nbsp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigMacKIM&layout=compact)](https://github.com/BigMacKIM/github-readme-stats) 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koust6u)](https://solved.ac/koust6u/)
