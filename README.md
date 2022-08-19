@@ -9,9 +9,12 @@
  
 
 <div align="center">
-<img align="" src="https://user-images.githubusercontent.com/111568619/185634895-f0a3fb5c-b684-4047-803a-753712d005ee.JPG" width="300" height="400"/></br>
-😃***I am majoring in computer science.***
-</br> 🏝️ I love traveling. </br> 🥵 And Slacker. </br> 🇰🇷 Living in Korea
+<img align="" src="https://user-images.githubusercontent.com/111568619/185634895-f0a3fb5c-b684-4047-803a-753712d005ee.JPG" width="300" height="400"/>
+  
+</br>***😃I am majoring in computer science.***
+</br> ***🏝️ I love traveling.*** 
+</br> ~~🥵 And Slacker.~~ 
+</br> ***🇰🇷 Living in Korea***
 </div>
  
 
@@ -31,7 +34,7 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a> &nbsp </p>
 
-## **<del><i> 🎸ect..🎸 </i></del>**          
+## **<i> 🎸ect..🎸 </i>**          
 ![김빅맥's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMacKIM&theme=dark&show_icons=true)       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigMacKIM&layout=compact)](https://github.com/BigMacKIM/github-readme-stats) 
 </br>
