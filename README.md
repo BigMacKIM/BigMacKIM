@@ -13,7 +13,6 @@
   
 </br>***😃I am majoring in computer science.***
 </br> ***🏝️ I love traveling.*** 
-</br> ~~🥵 And Slacker.~~ 
 </br> ***🇰🇷 Living in Korea***
 </div>
  
