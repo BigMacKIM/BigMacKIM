@@ -38,9 +38,8 @@
 </p>
 
 ## **<i> 🎸ect..🎸 </i>**          
-![김빅맥's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMacKIM&theme=dark&show_icons=true)|
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koust6u)](https://solved.ac/koust6u/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigMacKIM)|<img src="http://mazandi.herokuapp.com/api?handle=koust6u&theme=warm"/>
+![김빅맥's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMacKIM&theme=dark&show_icons=true)| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koust6u)](https://solved.ac/koust6u/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigMacKIM) | <img src="http://mazandi.herokuapp.com/api?handle=koust6u&theme=warm"/>
 
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:koust6u@gmail.com)
